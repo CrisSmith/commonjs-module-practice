@@ -10,3 +10,4 @@ module.exports.subtractTen =  function(num) {
   module.exports.subtractOne = function(num) {
     return subtract(num, 1);
   }
+  
